@@ -5,6 +5,9 @@ Vai consumir a API criada em Java.
 Para formatação de moeda para o real brasileiro foi usada a bilbioteca "ng2-currency-mask"
 [ng2-currency-mask](https://www.npmjs.com/package/ng2-currency-mask)
 
+Utilizado a biblioteca Bootstrap 5.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
