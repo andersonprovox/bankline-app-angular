@@ -1,6 +1,7 @@
 # BanklineApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+Vai consumir a API criada em Java e localizada no Heroku.
 
 ## Development server
 
