@@ -1,7 +1,9 @@
 # BanklineApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
-Vai consumir a API criada em Java e localizada no Heroku.
+Vai consumir a API criada em Java.
+Para formatação de moeda para o real brasileiro foi usada a bilbioteca "ng2-currency-mask"
+[ng2-currency-mask](https://www.npmjs.com/package/ng2-currency-mask)
 
 ## Development server
 
